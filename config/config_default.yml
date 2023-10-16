@@ -1,0 +1,5 @@
+# rename this file to config.yml
+BootNodeIP: 127.0.0.1   # your boot-server node ip
+BootNodeHTTP: 8080      # your boot node http port
+TCP: 3721               # tcp listening port
+HTTP: 3824              # http listening port
